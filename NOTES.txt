@@ -1,0 +1,4 @@
+echo Hello Suba!
+echo Welcome to Jenkins
+date /t
+time /t
